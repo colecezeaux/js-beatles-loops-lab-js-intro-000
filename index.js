@@ -24,4 +24,5 @@ function iLoveTheBeatles(num) {
       n+=1
   }
   while (num > n);
+  return i
 }
